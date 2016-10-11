@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="Varit.app" version="1.0.0">
+    <name>Varit</name>
+    <description>
+       moi
+    </description>
+    <author email="me@me.com" href="http://www.me.me">
+        Me
+    </author>
+</widget>

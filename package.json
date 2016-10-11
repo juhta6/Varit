@@ -1,0 +1,9 @@
+{
+  "title": "Peli",
+  "description": "Varit",
+  "category": "Small Apps",
+  "main": "src/varit.js",
+  "dependencies": {
+    "tabris": "^1.7.0"
+  }
+}
